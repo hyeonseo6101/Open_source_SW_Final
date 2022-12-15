@@ -22,17 +22,20 @@
 
 
 ### 💻 Hyper-parameter of the function
-
+-
 
 
 ### 👩 Configuration instructions
-
+- 
 
 ### 📝 Operating instructions
-
+- 
 
 ### 🔊 Copyright and licensing information
 - MIT License
 
 ### 📞 Contact information for the distributor or author
-- Contact : hyeonseo6101@gmail.com, khs6101kr@naver.com
+- Name : 김현서 (Hyeonseo-Kim)
+- Student Number : 20213608
+- major : Applied Statistics
+- E-mail : khs6101kr@cau.ac.kr
