@@ -80,7 +80,7 @@ sklearn.gaussian_process.GaussianProcessClassifier(kernel=None, *, optimizer='fm
   * In ‘one_vs_one’, one binary Gaussian process classifier is fitted for each pair of classes, which is trained to separate these two classes.
   
 - n_jobs
-  * n_jobsint, default=None
+  * int, default=None
   * The number of jobs to use for the computation: the specified multiclass problems are computed in parallel. 
   * 'None' means 1 unless in a *joblib.parallel_backend* context.
   * '-1' means using all processors.
