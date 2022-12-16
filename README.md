@@ -87,19 +87,9 @@ sklearn.gaussian_process.GaussianProcessClassifier(kernel=None, *, optimizer='fm
   
 -------------
 
-### 👩 Configuration instructions
--
-
--------------- 
-
-### 📝 Operating instructions
-- 
-
--------------
-
 ### 🔊 Copyright and licensing information
 - MIT License
-- https://scikit-learn.org/stable/modules/gaussian_process.html#gaussian-process
+- https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.GaussianProcessClassifier.html
 
 -------------
 
