@@ -2,7 +2,7 @@
 
 
 
-### 🤷‍ What I do my project? 
+### 🤷‍ What I do my project
 - In this final-project, I use Python's *Scikit-learn* package.
 - Based on training data on tumor data set, I find the best model and hyperparameters that have the highest accuracy of testing data.
 
